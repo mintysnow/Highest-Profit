@@ -4,8 +4,6 @@ Read a CSV file containing corporate profits over the years and create JSON form
 
 ## Part 1
 
-* Download the data file at https://gist.github.com/bobbae/b4eec5b5cb0263e7e3e63a6806d045f2 as "raw" and read the file into a program memory.  
-
 * The data file is in CSV format, the
 comma separated values format.  
 
