@@ -2,6 +2,12 @@
 
 Read a CSV file containing corporate profits over the years and create JSON format data and look for highest profit values in the data.
 
+# About the Folder and Files:
+- Data folder contains the original data.csv
+- Highest Profit-updated.py :  Work completed in .py format
+- Minjin-HighestProfit-Updated.ipynb : Work completed in .ipynb format (Recommended)
+- data2.json : contains rows of data from "Data.csv" file that have the valid numeric profit values
+
 ## Part 1
 
 * The data file is in CSV format, the
